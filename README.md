@@ -4,6 +4,10 @@
 [![MIT License][license-image]][license-url]
 [![Build status][travis-build-image]][travis-build-status]
 
+_Warning: This is just a fork, tweaked for my own purposes; you ought to [go to the source](https://github.com/matiasinsaurralde/go-dotnet) to get the original source code instead._
+
+***
+
 This is a PoC Go wrapper for the .NET Core Runtime, this project uses ```cgo``` and has been tested under OSX. It covers two basic use cases provided by the [CLR Hosting API](https://blogs.msdn.microsoft.com/msdnforum/2010/07/09/use-clr4-hosting-api-to-invoke-net-assembly-from-native-c/):
 
 * Load and run an .exe, using its default entrypoint, just like [corerun](https://github.com/dotnet/coreclr/blob/master/src/coreclr/hosts/unixcorerun/corerun.cpp) and [coreconsole](https://github.com/dotnet/coreclr/blob/master/src/coreclr/hosts/unixcoreconsole/coreconsole.cpp) do, check ```ExecuteManagedAssembly```.
