@@ -1,0 +1,4 @@
+github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0 h1:iQTw/8FWTuc7uiaSepXwyf3o52HaUYcV+Tu66S3F5GA=
+github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0/go.mod h1:1NbS8ALrpOvjt0rHPNLyCIeMtbizbir8U//inJ+zuB8=
+github.com/matiasinsaurralde/go-dotnet v0.0.0-20180524052235-8e12632d91c5 h1:iZ0z+XY8Ct5aAZ0J7JlL/x9IYu9bJ5wyB0VTgD1LsxI=
+github.com/matiasinsaurralde/go-dotnet v0.0.0-20180524052235-8e12632d91c5/go.mod h1:Bk0tixSOWMrXN17sAJv5wNMlyVM1Pw2LpB90lKvAfyM=

@@ -1,7 +1,8 @@
 package main
 
 import (
-	"github.com/matiasinsaurralde/go-dotnet"
+//	"github.com/matiasinsaurralde/go-dotnet"
+	"github.com/GwynethLlewelyn/go-dotnet"
 
 	"fmt"
 	"os"
